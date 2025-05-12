@@ -17,6 +17,7 @@ proyectos y mis intereses.
 * Sumador electrónico lógico de dos números binarios.
 * Base de datos de un anestesiólogo.
 * Diseño de interfaz y prototipado de app de agenda familiar.
+* Construcción de topología de una red usando VLAN por departamentos.
 
 ## Intereses
 * Gay shit.
