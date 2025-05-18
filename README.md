@@ -92,7 +92,7 @@ A continuación se describen las tecnologías, herramientas, frameworks y entorn
   Lenguaje de programación de propósito general, utilizado en ejercicios y prácticas orientadas a la lógica estructurada y manipulación de memoria.
 
 ## Intereses
-- Programación.
+- Programación
 - Diseño de interfaces  
 - Automatización de tareas  
 - Videojuegos y cultura geek  
